@@ -31,5 +31,5 @@ Text file should just be one serial per line, with no extra formatting as such:
 
 You can use these codes for testing.
 
-Code used at own risk. ALWAYS BACKUP! You never know. 2 backups (on different drives) = 1 backup
+Code used at own risk. ALWAYS BACKUP! You never know. 2 backups (on different drives) = 1 backup.  
 First public program. There may be bugs. Any errors and as much info as to what happened would be appreciated.
